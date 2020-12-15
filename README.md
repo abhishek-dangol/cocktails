@@ -9,3 +9,8 @@
 "build": "CI= react-scripts build",
 
 ```
+
+### Link to the website:
+https://dan-cocktails.netlify.app/
+
+![](public/cocktails.gif)
